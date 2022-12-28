@@ -14,3 +14,8 @@ console.log(b.push([]));
 // filter
 let y = [40,50,60,70,80];
 console.log(y.filter(y => y.length > y));
+
+// reverse
+let abc = ['apple','banana','mango'];
+let reverse = abc.reverse();
+console.log('reverse:',reverse);
